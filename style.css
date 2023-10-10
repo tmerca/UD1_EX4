@@ -22,9 +22,20 @@ body{
 
 .mainLogo{
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-    font-size: 60px;
+    font-size: 50px;
+    margin-top: 60px;
 }
 
 .btnLogIn{
     background-color:  #D5BDAF;
+}
+
+.btnFilterBy {
+    background-color:  #D5BDAF;
+    margin-left: 70px;
+    margin-top: 75px;
+}
+
+.btnRegister{
+    background-color:  #D5BDAF; 
 }
